@@ -2,6 +2,8 @@
 
 # This project was completed using a windows machine and compatability has not been checked on otheer systems such as Linux and MacOS.
 
+# Created using Jupyter notebooks
+
 The task: - 
 
 Write code for recognising cards from the game UNO. The program should be able to receive input
@@ -19,6 +21,8 @@ The code should easily run on a standard platform. Any important information rel
 execution, user interface, help, etc. has to be included in a readme file.
 
 # Currently the ML model can only recognise the number 4 and 6 
+
+# File Pathways will need to be adjusted based on where the images are saved
 
 # Execution 
 
@@ -41,3 +45,15 @@ Install the necessary dependencies using your command window.
   sci-kit learn, 
   pandas,
   skimage
+
+# Currently unfinished
+
+Versions 
+
+0.7 ---- Include digit estimation based on convexity
+0.6 ---- Included machine learning using MLP to predict the digit of the image based on thee MNIST data set
+0.5---- Included machine learning using SVC to predict the digit of the image based on thee MNIST data set
+0.4 ---- Identifying the number contour
+0.3 ---- Identifying contours and cropping colours
+0.2 ---- show all the images in the uno images folder
+0.1 ---- View and display images
