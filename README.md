@@ -26,6 +26,8 @@ execution, user interface, help, etc. has to be included in a readme file.
 
 # Currently the ML model can only recognise the number 4 and 6 
 
+# Colour limits will need to be changed to make sure the correct colours are detected adequately. Depending on the place the camera capture is taking place the camera serveral other factors the colour limit values will need to be adjusted.
+
 # File Pathways will need to be adjusted based on where the images are saved
 
 # Execution 
@@ -73,3 +75,11 @@ Versions
 0.2 ---- show all the images in the uno images folder
   
 0.1 ---- View and display images
+
+# Future implementations 
+
+Include a save image option to run all this code from an image saved from the camera stream.
+
+Properly tune the parameters of the MLP 
+
+Use a more Appropriate Dataset, preferabbly one that is centered around Uno cards. 
