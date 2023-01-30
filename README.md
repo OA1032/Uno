@@ -28,7 +28,7 @@ In order to use this program you must: - Run the Notebook cells from top to bott
 
 # Right now only colour recognition has been implemented on video.
 
-#The main code is in A2_Uno. 
+# The main code is in A2_Uno. 
 
 # The saved model that is used is MLP.sav
 
