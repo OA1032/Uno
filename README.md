@@ -18,13 +18,18 @@ provided in the file images.zip.
 The code should easily run on a standard platform. Any important information related to code
 execution, user interface, help, etc. has to be included in a readme file.
 
+# Currently the ML model can only recognise the number 4 and 6 
+
 # Execution 
 
-In order to use this program you must: - 
+In order to use this program you must: - Run the Notebook cells from top to bottom 
 
 Install the necessary dependencies using your command window. 
   
-  OpenCV
+  OpenCV2
   Numpy
   Matplotlib
-  
+  pickle
+  sci-kit learn 
+  pandas
+  skimage
