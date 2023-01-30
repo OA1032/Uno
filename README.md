@@ -30,10 +30,10 @@ In order to use this program you must: - Run the Notebook cells from top to bott
 
 Install the necessary dependencies using your command window. 
   
-  OpenCV2
-  Numpy
-  Matplotlib
-  pickle
-  sci-kit learn 
-  pandas
+  OpenCV2,
+  Numpy,
+  Matplotlib,
+  pickle,
+  sci-kit learn, 
+  pandas,
   skimage
