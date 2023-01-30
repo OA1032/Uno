@@ -24,6 +24,10 @@ execution, user interface, help, etc. has to be included in a readme file.
 
 In order to use this program you must: - Run the Notebook cells from top to bottom 
 
+# Download the folder and the necessary dependecies then run the cells from top to bottom
+
+# Right now only colour recognition has been implemented on video.
+
 Install the necessary dependencies using your command window. 
   
   OpenCV2
