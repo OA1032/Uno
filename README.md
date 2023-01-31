@@ -93,3 +93,5 @@ StackOverFlow
 MachineLearningMastery
 
 # Other sources listed in the comments of the code
+
+# Video available
