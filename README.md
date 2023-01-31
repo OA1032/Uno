@@ -38,7 +38,7 @@ In order to use this program you must: - Run the Notebook cells from top to bott
 
 # Right now only colour recognition has been implemented on video.
 
-# The main code is in A2_Uno. 
+# The main code is in A2_Uno_Test. 
 
 # The saved model that is used is MLP.sav
 
@@ -58,9 +58,11 @@ Install the necessary dependencies using your command window.
     
   skimage
 
-# Currently Partially finished
+# Currently Partially finished has not implemented live video uno card recognition.
 
 Versions 
+
+0.8 ---- Digit estimations based on multiple feature thresholds of the centre contour. [Does not work with Yellow due to binary_inv thresholding issues]
 
 0.7 ---- Include digit estimation based on convexity
   
